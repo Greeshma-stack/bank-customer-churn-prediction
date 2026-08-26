@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+bank_churn_model.joblib
+.venv/
+venv/
+.env
